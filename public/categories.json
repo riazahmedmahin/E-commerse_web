@@ -1,0 +1,17 @@
+[
+  {
+    "categoryID": "01",
+    "categoryName": "Sportz",
+    "logo": "https://img.freepik.com/premium-vector/sport-motorcicly-logo_25327-58.jpg?w=360"
+  },
+  {
+    "categoryID": "02",
+    "categoryName": "Commuter",
+    "logo": "https://www.bennetts.co.uk/-/media/bikesocial/2019-september-images/top-10-commuters/best-commuter-bikes-2019-top-10-(8).ashx?h=493&w=740&la=en&hash=AA475E3E096E4E1D66BEF913D581878C3F396C8B"
+  },
+  {
+    "categoryID": "03",
+    "categoryName": "E-Bikes",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGBzJQGM7eLAHlHzx07W2J5VoHykDiEpLcNw&usqp=CAU"
+  }
+]
